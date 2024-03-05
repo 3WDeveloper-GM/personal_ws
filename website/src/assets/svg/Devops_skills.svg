@@ -1,0 +1,18 @@
+<svg width="1015" height="510" viewBox="0 0 1015 510" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1">
+<rect width="1015" height="510" fill="#2E3440"/>
+<g id="first">
+<rect id="Rectangle 1" y="80" width="152.25" height="30" fill="#D8DEE9"/>
+<rect id="Rectangle 2" x="152" y="80" width="671" height="30" fill="url(#paint0_linear_1_2)"/>
+<rect id="Rectangle 3" x="823" y="80" width="192" height="30" fill="#4C566A"/>
+<text id="Github" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12.6875" letter-spacing="0em"><tspan x="55.9353" y="99.6136">Github</tspan></text>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_2" x1="152" y1="95" x2="823" y2="95" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E81AC"/>
+<stop offset="0.502468" stop-color="#81A1C1"/>
+<stop offset="1" stop-color="#88C0D0"/>
+</linearGradient>
+</defs>
+</svg>

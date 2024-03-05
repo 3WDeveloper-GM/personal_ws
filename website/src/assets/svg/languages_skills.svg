@@ -1,0 +1,59 @@
+<svg width="1015" height="510" viewBox="0 0 1015 510" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1015" height="510" fill="#2E3440"/>
+<rect class="fade-in" y="80" width="152.25" height="30" fill="#D8DEE9"/>
+<rect class="slide" x="152.25" y="80" width="776.757" height="30" fill="url(#paint6_linear_1_2)"/>
+<rect class="slide" x="929" y="80" width="86" height="30" fill="#4C566A"/>
+<text class="fade-in" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12.6875" letter-spacing="0em"><tspan x="8.77841" y="99.6136"> Wolfram Mathematica</tspan></text>
+<rect class="fade-in" y="135" width="152.25" height="29.9208" fill="#D8DEE9"/>
+<rect class="slide" x="152.25" y="135.237" width="731.444" height="29.7625" fill="url(#paint7_linear_1_2)"/>
+<rect class="slide" x="884" y="135" width="131" height="30" fill="#4C566A"/>
+<text class="fade-in" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12.6875" letter-spacing="0em"><tspan x="54.9441" y="154.574">Python</tspan></text>
+<rect class="fade-in" y="190.234" width="152.25" height="29.5312" fill="#D8DEE9"/>
+<rect class="slide" x="152.25" y="190" width="703.25" height="30" fill="url(#paint8_linear_1_2)"/>
+<rect class="slide" x="856" y="190" width="159" height="30" fill="#4C566A"/>
+<text class="fade-in" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12.6875" letter-spacing="0em"><tspan x="67.6254" y="209.614">Go</tspan></text>
+<rect class="fade-in" y="245" width="152.25" height="30" fill="#D8DEE9"/>
+<rect class="slide" x="152.25" y="245" width="603.361" height="30" fill="url(#paint9_linear_1_2)"/>
+<rect class="slide" x="756" y="245" width="259" height="30" fill="#4C566A"/>
+<text class="fade-in" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12.6875" letter-spacing="0em"><tspan x="45.3355" y="264.614">Javascript</tspan></text>
+<rect class="fade-in" y="300" width="152.25" height="30" fill="#D8DEE9"/>
+<rect class="slide" x="152.25" y="300" width="647.062" height="30" fill="url(#paint10_linear_1_2)"/>
+<rect class="slide" x="799" y="300" width="216" height="30" fill="#4C566A"/>
+<text class="fade-in" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12.6875" letter-spacing="0em"><tspan x="72.0672" y="319.614">R</tspan></text>
+<rect class="fade-in" y="355" width="152.25" height="30" fill="#D8DEE9"/>
+<rect class="slide" x="152.25" y="355" width="776.757" height="30" fill="url(#paint11_linear_1_2)"/>
+<rect class="slide" x="929" y="355" width="86" height="30" fill="#4C566A"/>
+<text class="fade-in" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12.6875" letter-spacing="0em"><tspan x="50.3907" y="374.614">MATLAB</tspan></text>
+<defs>
+<linearGradient id="paint6_linear_1_2" x1="152.25" y1="95" x2="929.007" y2="95" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E81AC"/>
+<stop offset="0.502468" stop-color="#81A1C1"/>
+<stop offset="1" stop-color="#88C0D0"/>
+</linearGradient>
+<linearGradient id="paint7_linear_1_2" x1="152.25" y1="150.119" x2="883.694" y2="150.119" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E81AC"/>
+<stop offset="0.502468" stop-color="#81A1C1"/>
+<stop offset="1" stop-color="#88C0D0"/>
+</linearGradient>
+<linearGradient id="paint8_linear_1_2" x1="152.25" y1="205" x2="855.5" y2="205" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E81AC"/>
+<stop offset="0.502468" stop-color="#81A1C1"/>
+<stop offset="1" stop-color="#88C0D0"/>
+</linearGradient>
+<linearGradient id="paint9_linear_1_2" x1="152.25" y1="260" x2="755.611" y2="260" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E81AC"/>
+<stop offset="0.502468" stop-color="#81A1C1"/>
+<stop offset="1" stop-color="#88C0D0"/>
+</linearGradient>
+<linearGradient id="paint10_linear_1_2" x1="152.25" y1="315" x2="799.312" y2="315" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E81AC"/>
+<stop offset="0.502468" stop-color="#81A1C1"/>
+<stop offset="1" stop-color="#88C0D0"/>
+</linearGradient>
+<linearGradient id="paint11_linear_1_2" x1="152.25" y1="370" x2="929.007" y2="370" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E81AC"/>
+<stop offset="0.502468" stop-color="#81A1C1"/>
+<stop offset="1" stop-color="#88C0D0"/>
+</linearGradient>
+</defs>
+</svg>
